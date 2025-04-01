@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "hongsenghq",
+    "slug": "hongsenghq",
+     "web": {
+      "pwa": {
+        "name": "Your App Name",
+        "short_name": "App Short Name",
+        "description": "Your app description",
+        "background_color": "#ffffff",
+        "theme_color": "#000000"
+      }
+    }
+  }
+}
